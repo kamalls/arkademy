@@ -1,4 +1,5 @@
 #readme
+
 #Kegunaan JSON pada REST API adalah untuk menyimpan data yang telah diinput kan client untuk nantinya akan digunakan request ke server bisa juga untuk meyimpan data atau settingan pada server untuk ditampilkan kepada client sebagai response
 
 #database no.6, maaf saya gunakan hosting untuk membuat database karna pc tidak bisa di install XAMPP
